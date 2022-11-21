@@ -46,3 +46,6 @@ near call --accountId csummer.testnet testm7.testnet nft_burn '{"token_id":"1:1"
 near view testm7.testnet nft_tokens_for_owner '{"account_id":"csummer.testnet"}'
 near view testm7.testnet nft_token '{"token_id":"1:1"}'
 ```
+
+## License
+MIT License
